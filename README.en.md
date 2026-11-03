@@ -17,8 +17,8 @@ SwiftUI, URLSession.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/Universes-OTUS.git
-cd Universes-OTUS
+git clone https://github.com/dpogonia/Extrasenses.git
+cd Extrasenses
 open "OTUS SUI Project.xcodeproj"
 ```
 
